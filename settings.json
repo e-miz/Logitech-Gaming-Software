@@ -1,0 +1,435 @@
+{
+  "analytics" : 
+  {
+    "enabled" : false
+  },
+  "backlight" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "Guild Wars 2" : 
+      {
+        "M1" : "#ff0000"
+      },
+      "M1" : "#ffff00",
+      "M2" : "#ffffff",
+      "M3" : "#00ff00",
+      "ROTMG" : 
+      {
+        "M1" : "#0000ff"
+      },
+      "Runescape" : 
+      {
+        "M1" : "#ffff00"
+      },
+      "enable" : true,
+      "enablecolor" : true
+    }
+  },
+  "backlight.brightness.slider" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "Guild Wars 2" : 
+      {
+        "M1" : "100"
+      },
+      "M1" : "100",
+      "ROTMG" : 
+      {
+        "M1" : "100"
+      },
+      "Runescape" : 
+      {
+        "M1" : "100"
+      }
+    }
+  },
+  "backlight.brightness.swatch" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "Guild Wars 2" : 
+      {
+        "M1" : "#000000"
+      },
+      "M1" : "#000000",
+      "ROTMG" : 
+      {
+        "M1" : "#000000"
+      },
+      "Runescape" : 
+      {
+        "M1" : "#000000"
+      }
+    }
+  },
+  "backlight_control.cyclelighting" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "Guild Wars 2" : 
+      {
+        "M1" : true
+      },
+      "M1" : true,
+      "ROTMG" : 
+      {
+        "M1" : true
+      },
+      "Runescape" : 
+      {
+        "M1" : true
+      }
+    }
+  },
+  "backlight_control.lightingeffect" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "Guild Wars 2" : 
+      {
+        "M1" : false
+      },
+      "M1" : false,
+      "ROTMG" : 
+      {
+        "M1" : false
+      },
+      "Runescape" : 
+      {
+        "M1" : false
+      }
+    }
+  },
+  "backlight_control.mode" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "Guild Wars 2" : 1,
+      "M1" : 1,
+      "ROTMG" : 1,
+      "Runescape" : 1
+    }
+  },
+  "backlight_control.sleepenable" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "Guild Wars 2" : 
+      {
+        "M1" : false
+      },
+      "M1" : false,
+      "ROTMG" : 
+      {
+        "M1" : false
+      },
+      "Runescape" : 
+      {
+        "M1" : false
+      }
+    }
+  },
+  "backlight_control.sleeptimer" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "Guild Wars 2" : 
+      {
+        "M1" : 30
+      },
+      "M1" : 30,
+      "ROTMG" : 
+      {
+        "M1" : 30
+      },
+      "Runescape" : 
+      {
+        "M1" : 30
+      }
+    }
+  },
+  "backlight_control.slider" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "Guild Wars 2" : 
+      {
+        "M1" : 9
+      },
+      "M1" : 9,
+      "ROTMG" : 
+      {
+        "M1" : 9
+      },
+      "Runescape" : 
+      {
+        "M1" : 9
+      }
+    }
+  },
+  "current_profile_id" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
+  "discord_applet_shown" : true,
+  "gameApplets" : 
+  {
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Assetto Corsa|AssettoCorsaArxApplet.exe" : 
+    {
+      "id" : "scan_from_known_folder",
+      "launch" : 
+      {
+        "profile_associated_but_game_not_found" : true,
+        "profile_guid" : "{9E6D8C2F-0983-4008-8EE3-EC5554C88CAF}",
+        "type" : "never"
+      },
+      "name" : "Assetto Corsa",
+      "support" : 
+      {
+        "arx" : 
+        {
+          "enabled" : true,
+          "support" : true
+        },
+        "led" : 
+        {
+          "enabled" : true,
+          "support" : true
+        }
+      }
+    },
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Audio Visualizer|Audio_Visualizer_Arx_Applet.exe" : 
+    {
+      "id" : "scan_from_known_folder",
+      "launch" : 
+      {
+        "type" : "never"
+      },
+      "name" : "Audio Visualizer",
+      "support" : 
+      {
+        "arx" : 
+        {
+          "enabled" : false,
+          "support" : false
+        },
+        "led" : 
+        {
+          "enabled" : true,
+          "support" : true
+        }
+      }
+    },
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Counter Strike - GO|CS_GO_Arx_Applet.exe" : 
+    {
+      "id" : "scan_from_known_folder",
+      "launch" : 
+      {
+        "profile_associated_but_game_not_found" : true,
+        "profile_guid" : "{A2606DAA-7B0C-4CA6-B203-2E86E5BE3325}",
+        "type" : "never"
+      },
+      "name" : "Counter Strike - GO",
+      "support" : 
+      {
+        "arx" : 
+        {
+          "enabled" : true,
+          "support" : true
+        },
+        "led" : 
+        {
+          "enabled" : true,
+          "support" : true
+        }
+      }
+    },
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Discord|logitechg_discord.exe" : 
+    {
+      "id" : "scan_from_known_folder",
+      "launch" : 
+      {
+        "profile_associated_but_game_not_found" : false,
+        "profile_guid" : "",
+        "type" : "never"
+      },
+      "name" : "Discord",
+      "support" : 
+      {
+        "arx" : 
+        {
+          "enabled" : false,
+          "support" : false
+        },
+        "led" : 
+        {
+          "enabled" : true,
+          "support" : true
+        }
+      }
+    },
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Dota 2|Dota2ArxApplet.exe" : 
+    {
+      "id" : "scan_from_known_folder",
+      "launch" : 
+      {
+        "profile_associated_but_game_not_found" : true,
+        "profile_guid" : "{306FB93B-96A8-43EB-9B5A-352D93EEE712}",
+        "type" : "never"
+      },
+      "name" : "Dota 2",
+      "support" : 
+      {
+        "arx" : 
+        {
+          "enabled" : true,
+          "support" : true
+        },
+        "led" : 
+        {
+          "enabled" : true,
+          "support" : true
+        }
+      }
+    },
+    "C:|Program Files|Logitech Gaming Software|ArxApplets|Screen Sampler|ScreenSampler.exe" : 
+    {
+      "id" : "scan_from_known_folder",
+      "launch" : 
+      {
+        "type" : "never"
+      },
+      "name" : "Screen Sampler",
+      "support" : 
+      {
+        "arx" : 
+        {
+          "enabled" : false,
+          "support" : false
+        },
+        "led" : 
+        {
+          "enabled" : true,
+          "support" : true
+        }
+      }
+    }
+  },
+  "lcd" : 
+  {
+    "applets" : 
+    {
+      "c86a" : 
+      {
+        "appPath" : "C:/Program Files/Logitech Gaming Software/LCore.exe",
+        "autostartable" : false,
+        "format" : 0,
+        "iconPath" : "",
+        "name" : "G-Series Profile Selector"
+      },
+      "c872" : 
+      {
+        "appPath" : "C:/Program Files/Logitech Gaming Software/LCore.exe",
+        "autostartable" : false,
+        "format" : 0,
+        "iconPath" : "",
+        "name" : "Logitech Gaming Profiler"
+      },
+      "d9e3" : 
+      {
+        "appPath" : "C:/Program Files/Logitech Gaming Software/LCore.exe",
+        "autostartable" : false,
+        "format" : 1,
+        "iconPath" : "",
+        "name" : "G-Series Profile Selector"
+      },
+      "d9fb" : 
+      {
+        "appPath" : "C:/Program Files/Logitech Gaming Software/LCore.exe",
+        "autostartable" : false,
+        "format" : 1,
+        "iconPath" : "",
+        "name" : "Logitech Gaming Profiler"
+      }
+    }
+  },
+  "mainapp" : 
+  {
+    "autostart" : true
+  },
+  "mainwindow" : 
+  {
+    "ScanForGames" : false,
+    "dynamicImageDownload" : true,
+    "enableAppletDeviceView" : false,
+    "enableLEDSDK" : true,
+    "lastUsedDevice" : "Logitech.Gaming.Mouse.G600",
+    "useEnhancedGraphics" : false
+  },
+  "mobile" : 
+  {
+    "authentication" : null,
+    "delay" : 
+    {
+      "enabled" : false
+    },
+    "service" : 
+    {
+      "enabled" : true,
+      "no-new-paring-allowed" : false
+    },
+    "service_guid" : "{5a84b641-8716-4b7e-93fc-8b6a54cd51b8}"
+  },
+  "notification" : 
+  {
+    "showDpiChangeToastNotify" : false,
+    "showProfileChangeToastNotify" : false
+  },
+  "pointer" : 
+  {
+    "Logitech.Gaming.Mouse.G600" : 
+    {
+      "dpi" : 
+      {
+        "defaultIndex" : 0,
+        "shiftIndex" : 0,
+        "syncXY" : true,
+        "values" : 
+        [
+          {
+            "enabled" : true,
+            "x" : 6000,
+            "y" : 6000
+          }
+        ]
+      },
+      "hardwareMode" : false,
+      "powerMode" : 2,
+      "reportRate" : 1000
+    },
+    "hasAcceleration" : false
+  },
+  "profiler" : 
+  {
+    "autoScannedForGames" : true,
+    "defaultProfile" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
+    "enableQuickMacroDelays" : false,
+    "joystickMouseSpeed" : 127,
+    "lastProfile" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
+    "persistentProfile" : "",
+    "profileCyclingCmd" : 0,
+    "showProfileActivationOnLCD" : true,
+    "showQuickMacrosOnLCD" : true,
+    "sp" : 
+    {
+      "hasMigrated" : true
+    }
+  },
+  "splashscreen" : 
+  {
+    "G560_first" : true
+  },
+  "sync_effect_settings" : 
+  {
+    "settings" : null
+  }
+}
