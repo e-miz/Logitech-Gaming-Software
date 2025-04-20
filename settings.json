@@ -68,6 +68,10 @@
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
+      "Guild Wars" : 
+      {
+        "M1" : true
+      },
       "Guild Wars 2" : 
       {
         "M1" : true
@@ -87,6 +91,10 @@
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
+      "Guild Wars" : 
+      {
+        "M1" : false
+      },
       "Guild Wars 2" : 
       {
         "M1" : false
@@ -106,6 +114,7 @@
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
+      "Guild Wars" : 1,
       "Guild Wars 2" : 1,
       "M1" : 1,
       "ROTMG" : 1,
@@ -116,6 +125,10 @@
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
+      "Guild Wars" : 
+      {
+        "M1" : false
+      },
       "Guild Wars 2" : 
       {
         "M1" : false
@@ -135,6 +148,10 @@
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
+      "Guild Wars" : 
+      {
+        "M1" : 30
+      },
       "Guild Wars 2" : 
       {
         "M1" : 30
@@ -154,6 +171,10 @@
   {
     "Logitech.Gaming.Mouse.G600" : 
     {
+      "Guild Wars" : 
+      {
+        "M1" : 9
+      },
       "Guild Wars 2" : 
       {
         "M1" : 9
@@ -169,7 +190,7 @@
       }
     }
   },
-  "current_profile_id" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
+  "current_profile_id" : "{B38EB905-8D9F-42FD-B7D6-A7FE4D630B52}",
   "discord_applet_shown" : true,
   "gameApplets" : 
   {
@@ -397,8 +418,8 @@
         [
           {
             "enabled" : true,
-            "x" : 6000,
-            "y" : 6000
+            "x" : 7000,
+            "y" : 7000
           }
         ]
       },
@@ -414,7 +435,7 @@
     "defaultProfile" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
     "enableQuickMacroDelays" : false,
     "joystickMouseSpeed" : 127,
-    "lastProfile" : "{09D92D75-3C8C-4723-B06C-4090BCB899C0}",
+    "lastProfile" : "{B38EB905-8D9F-42FD-B7D6-A7FE4D630B52}",
     "persistentProfile" : "",
     "profileCyclingCmd" : 0,
     "showProfileActivationOnLCD" : true,
